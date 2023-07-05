@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Third Alx Project
+This repo is for bash executable scripts
